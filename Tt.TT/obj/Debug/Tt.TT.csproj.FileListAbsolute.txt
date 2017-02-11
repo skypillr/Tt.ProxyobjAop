@@ -1,0 +1,8 @@
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.TT.exe.config
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.TT.exe
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.TT.pdb
+E:\soft\psoft\Test\Tt.TT\Tt.TT\obj\Debug\Tt.TT.csprojResolveAssemblyReference.cache
+E:\soft\psoft\Test\Tt.TT\Tt.TT\obj\Debug\Tt.TT.exe
+E:\soft\psoft\Test\Tt.TT\Tt.TT\obj\Debug\Tt.TT.pdb
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.ProxyObj.dll
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.ProxyObj.pdb

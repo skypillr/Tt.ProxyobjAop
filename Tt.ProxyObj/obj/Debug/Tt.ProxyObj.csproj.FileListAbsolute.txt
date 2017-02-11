@@ -1,0 +1,6 @@
+E:\soft\psoft\Test\Tt.TT\Tt.ProxyObj\bin\Debug\Tt.ProxyObj.dll
+E:\soft\psoft\Test\Tt.TT\Tt.ProxyObj\bin\Debug\Tt.ProxyObj.pdb
+E:\soft\psoft\Test\Tt.TT\Tt.ProxyObj\obj\Debug\Tt.ProxyObj.dll
+E:\soft\psoft\Test\Tt.TT\Tt.ProxyObj\obj\Debug\Tt.ProxyObj.pdb
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.ProxyObj.dll
+E:\soft\psoft\Test\Tt.TT\Tt.TT\bin\Debug\Tt.ProxyObj.pdb

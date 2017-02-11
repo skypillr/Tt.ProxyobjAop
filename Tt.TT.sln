@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tt.TT", "Tt.TT\Tt.TT.csproj", "{47B54AB0-C265-427A-AAB2-1E31557DE4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tt.ProxyObj", "Tt.ProxyObj\Tt.ProxyObj.csproj", "{D76C2911-3DB3-446B-8A16-1FF237F94ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B54AB0-C265-427A-AAB2-1E31557DE4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B54AB0-C265-427A-AAB2-1E31557DE4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B54AB0-C265-427A-AAB2-1E31557DE4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B54AB0-C265-427A-AAB2-1E31557DE4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76C2911-3DB3-446B-8A16-1FF237F94ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76C2911-3DB3-446B-8A16-1FF237F94ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76C2911-3DB3-446B-8A16-1FF237F94ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76C2911-3DB3-446B-8A16-1FF237F94ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
